@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.sqcpp": "cpp"
+    },
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "local",
+            "database": "SchoolSystemDB",
+            "username": "sa",
+            "password": "WZh18649622181"
+        }
+    ]
+}
